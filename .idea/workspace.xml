@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79444367-b201-4eb0-86fd-2d141d3291c3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KC2EGLFY8xF9eLgsqAZNo3lHrh" />
   <component name="ProjectViewState">
@@ -41,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673464131008</updated>
       <workItem from="1673464133278" duration="105000" />
-      <workItem from="1673464250477" duration="421000" />
+      <workItem from="1673464250477" duration="833000" />
     </task>
     <servers />
   </component>
