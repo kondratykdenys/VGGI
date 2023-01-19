@@ -1,5 +1,13 @@
-# WebGL
+# WebGL CGW
 
-Project that accompanies VGGI credit module.
+CGW 11 Variant Kondratyk Denys TR-21mp
 
-Visit vggi-kpi.blogspot.com for more information
+
+![Знімок екрана 2023-01-11 о 23.51.44.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.51.44.png)
+![Знімок екрана 2023-01-11 о 23.51.49.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.51.49.png)
+![Знімок екрана 2023-01-11 о 23.51.53.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.51.53.png)
+![Знімок екрана 2023-01-11 о 23.52.01.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.52.01.png)
+![Знімок екрана 2023-01-11 о 23.52.09.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.52.09.png)
+![Знімок екрана 2023-01-11 о 23.55.30.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.55.30.png)
+![Знімок екрана 2023-01-11 о 23.55.46.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.55.46.png)
+![Знімок екрана 2023-01-11 о 23.55.57.png](assets%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-01-11%20%D0%BE%2023.55.57.png)
